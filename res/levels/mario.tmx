@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Mario" tilewidth="16" tileheight="16">
+  <image source="../Map16.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzrEJwDAMRUFlS+0/SUhtExdxsGzu4BdqxIsAAACA1rU6YEDfd9Ubd+ir3ghwghzcK2X0+yo0Zrz3zWjMSfvj57MbEBIQ4A==
+  </data>
+ </layer>
+</map>
